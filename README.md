@@ -1,10 +1,6 @@
 # ElectoChain
 A Decentralised digital Voting System based on Blockchain architecture.
 
-## Research Paper
-A research paper has also been written on this project
-[click here](https://github.com/thephenom1708/ElectoChain/blob/master/ElectoChain_paper.pdf)
-
 ## Technology-Stack:
 * Front-End Development: HTML,CSS,Bootstrap,Vanilla JS,Jquery
 * Data-Processing and Blockchain Development: Python 3.6.5
