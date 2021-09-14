@@ -1,0 +1,26 @@
+{% extends 'base/base_admin.html' %}
+{% block title %}ElectoChain: Results{% endblock %}
+
+{% block head %}
+    {% load static %}
+    <script type="text/javascript" src=" http://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script type="text/javascript" src=" http://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.candy.js"></script>
+{% endblock %}
+
+{% block body %}
+
+    {% if errorMsg %}
+         <div class="alert alert-dismissible alert-warning">
+             <strong>{{ errorMsg }}</strong>
+         </div>
+    {% endif %}
+
+    <section id="result">
+        <div class="jumbotron">
+            <center>
+                <div id="myFirstchart-container">{{ output|safe }}</div>
+            </center>
+        </div>
+    </section>
+
+{% endblock %}
