@@ -3,7 +3,7 @@ A Decentralised digital Voting System based on Blockchain architecture.
 
 ## Technology-Stack:
 * Front-End Development: HTML,CSS,Bootstrap,Vanilla JS,Jquery
-* Data-Processing and Blockchain Development: Python 3.6.0
+* Data-Processing and Blockchain Development: Python 3.6.5
 * Back-End Development: Django-Python Framework
 * Database management: DB SQLite
 
