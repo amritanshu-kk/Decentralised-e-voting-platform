@@ -6,4 +6,5 @@ timedelta
 requests
 djangorestframework
 cryptography
+dapp
 
