@@ -52,4 +52,3 @@ A Decentralised digital Voting System based on Blockchain architecture.
 2. Change this to working directory.
 3. Hit command: "docker-compose up --build"
 4. Go to http://localhost:5000/auth/ in your browser.
-
