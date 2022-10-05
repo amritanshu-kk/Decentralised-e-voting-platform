@@ -5,6 +5,5 @@ whitenoise==5.0.1
 timedelta
 requests
 djangorestframework
-cryptography
 dapp
 blockchain
