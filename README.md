@@ -1,4 +1,4 @@
-# ElectoChain
+# ElectoChain - a decentralised
 A Decentralised digital Voting System based on Blockchain architecture.
 
 ## Technology-Stack:
