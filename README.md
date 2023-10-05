@@ -35,7 +35,7 @@ A Decentralised digital Voting System based on Blockchain architecture.
 * Many cryptographic and encryption algorithms are used to store the data securely in the database (SHA-256, CSPRNG, salt-hashing, etc).
 * Complete normalization is also achieved in different relations of the database. 
 
-## Admin Section:-
+## Admin Section:
 * This panel is only reserved for the governing body of an election.
 * Every admin is assigned a unique Election Commission ID for authentication.
 * Result analysis of election is carried out in this section.
